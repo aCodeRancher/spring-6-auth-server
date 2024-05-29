@@ -42,7 +42,6 @@ import java.util.UUID;
  * Created by jt, Spring Framework Guru.
  */
 @Configuration
-
 public class SecurityConfig {
 
     @Bean
